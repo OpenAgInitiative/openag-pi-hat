@@ -1,7 +1,11 @@
-# Adafruit-Perma-Proto-HAT-PCB
+# Raspberry Pi Hat Template
+Forked from the Adafruit-Perma-Proto-HAT-PCB, see bottom of page for their readme
 
-PCB files for the Adafruit Perma Proto HAT
+## Useful Links
+- [Raspberry Pi Hat Design Guide](https://github.com/raspberrypi/hats)
 
+## Adafruit-Perma-Proto-HAT-PCB README
+```
 Format is EagleCAD schematic and board layout
 
 For more details, check out the product page at
@@ -17,3 +21,4 @@ products from Adafruit!
 Designed by Adafruit Industries.  
 Creative Commons Attribution, Share-Alike license, check license.txt for more information
 All text above must be included in any redistribution
+```
