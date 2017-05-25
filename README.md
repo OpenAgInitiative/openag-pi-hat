@@ -1,11 +1,11 @@
 # openag-pi-hat
 This hat is a simple connector breakout board to simplify the wiring on the brain box. It is the first step toward a more comprehensive brain box PCB. 
 
-## Schematic
-![](schematic.jpg)
-
 ## Board
-![](board.jpg)
+![](board.png)
+
+## Schematic
+![](schematic.png)
 
 ## Fabrication Instructions
 1. Gerber files are included in this repo, send them to a pcb fab house. Use OSH Park for low volume / low cost. Use Advanced Circuits for high volume / fast turn time.
